@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="502c5dbd-33de-4b7e-9888-4e73ddb36555" name="Changes" comment="add Set1,Set2">
-      <change afterPath="$PROJECT_DIR$/Set1/p10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Set1/p2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Set1/p3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Set1/p4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Set1/p5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Set1/p6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Set1/p7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Set1/p8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Set1/p9.py" afterDir="false" />
+    <list default="true" id="502c5dbd-33de-4b7e-9888-4e73ddb36555" name="Changes" comment="add csv files">
+      <change afterPath="$PROJECT_DIR$/Set3/P1/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Set3/P1/templates/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,6 +18,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -43,6 +37,9 @@
     &quot;accountId&quot;: &quot;e33d1c9d-2352-4650-9e9c-8b28455c9432&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -57,6 +54,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -64,29 +62,13 @@
     "last_opened_file_path": "C:/Users/pit/Bimlesh_github"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\pit\Bimlesh_github\Set3\P1" />
+      <recent name="C:\Users\pit\Bimlesh_github\Set3\templates" />
+    </key>
+  </component>
   <component name="RunManager">
-    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
-      <module name="Bimlesh_github" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Bimlesh_github" />
       <option name="ENV_FILES" value="" />
@@ -107,52 +89,6 @@
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="Tox" factoryName="Tox">
-      <module name="Bimlesh_github" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="docs" factoryName="Docutils task">
-      <module name="Bimlesh_github" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="docutils_input_file" value="" />
-      <option name="docutils_output_file" value="" />
-      <option name="docutils_params" value="" />
-      <option name="docutils_task" value="" />
-      <option name="docutils_open_in_browser" value="false" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="docs" factoryName="Sphinx task">
-      <module name="Bimlesh_github" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="docutils_input_file" value="" />
-      <option name="docutils_output_file" value="" />
-      <option name="docutils_params" value="" />
-      <option name="docutils_task" value="" />
-      <option name="docutils_open_in_browser" value="false" />
       <method v="2" />
     </configuration>
   </component>
@@ -188,14 +124,69 @@
       <option name="project" value="LOCAL" />
       <updated>1739413765286</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add p2.py">
+      <option name="closed" value="true" />
+      <created>1739415709469</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1739415709469</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add p1.py">
+      <option name="closed" value="true" />
+      <created>1739416006874</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1739416006874</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add p1.py">
+      <option name="closed" value="true" />
+      <created>1739416834162</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1739416834162</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add csv files">
+      <option name="closed" value="true" />
+      <created>1739418958482</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1739418958482</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add csv files">
+      <option name="closed" value="true" />
+      <created>1739418986224</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1739418986224</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add1andadd2" />
     <MESSAGE value="addset1andaddset2" />
     <MESSAGE value="add Set1,Set2" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Set1,Set2" />
+    <MESSAGE value="add p2.py" />
+    <MESSAGE value="add p3.py" />
+    <MESSAGE value="add p1.py" />
+    <MESSAGE value="add csv files" />
+    <option name="LAST_COMMIT_MESSAGE" value="add csv files" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
