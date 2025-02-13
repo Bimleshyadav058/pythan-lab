@@ -22,8 +22,8 @@ def calculate_average(csv_file, column_name):
         print(f"File '{csv_file}' not found.")
         return None
 
-csv_file_path = 'file.csv'
-column_to_calculate = 'ENGLISH'
+csv_file_path = './src/file.csv'
+column_to_calculate = 'cc'
 
 result = calculate_average(csv_file_path, column_to_calculate)
 if result is not None:
